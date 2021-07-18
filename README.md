@@ -14,7 +14,7 @@ It was created as part of a proposed assignment during the Full Stack Developmen
 
 It uses React and Bootstrap as a starting point for styling.
 
-Live Preview: https://renzodupont.github.io/mit-career-2021/week-09/bus-tracker/
+Live Preview: https://renzodupont.github.io/mit-career-2021/week-12/
 
 # How to Run
 
