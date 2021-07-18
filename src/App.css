@@ -1,0 +1,93 @@
+html,
+body {
+  min-height: 100%;
+  min-width: 100%;
+  height: 100%;
+  width: 100%;
+  overflow: none;
+}
+
+body,
+p,
+html,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #202124;
+  color: white;
+  font-family: "Trirong", serif;
+}
+
+a {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+a:hover {
+  color: #e0b9f0;
+}
+
+.App {
+  text-align: center;
+}
+
+.input-error {
+  border: 3px solid red;
+}
+
+.post-it-form-container,
+.post-it-container {
+  padding-top: 30px;
+}
+
+.post-it-container {
+  background: #333442;
+  overflow: auto;
+  height: 100vh;
+}
+
+.post-it {
+  height: 250px;
+  width: 200px;
+  float: left;
+  margin: 10px;
+  font-family: "Yomogi", cursive;
+}
+
+.post-it p {
+  overflow: auto;
+  height: 120px;
+  margin-top: 10px;
+}
+
+.post-it .buttons {
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.post-it .buttons button {
+  font-size: 10px;
+  padding: 5px 8px;
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+.repo {
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  bottom: 20px;
+}
+
+.repo a {
+  margin: 0 auto;
+}
