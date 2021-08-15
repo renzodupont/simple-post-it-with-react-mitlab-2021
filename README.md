@@ -24,7 +24,7 @@ Live Preview: https://renzodupont.github.io/mit-career-2021/week-12/
 ### `npm install`
 
 This will get all the needed dependencies in your folder
-2 - Finally in the project directory, run:
+3 - Finally in the project directory, run:
 
 ### `npm start`
 
@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Contact info
 
-📫 https://www.linkedin.com/in/renzo-dupont-b9797941/ | https://twitter.com/renzodupont
+📫 https://www.linkedin.com/in/renzo-dupont-b9797941/ | https://twitter.com/renzodupont | https://instagram.com/renzondl
 
 # License information
 

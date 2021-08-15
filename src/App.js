@@ -23,6 +23,7 @@ function App() {
     title: "",
     description: "",
     index: postItArray.length,
+    type: "Normal",
   });
 
   const addPostIt = (postIt) => {
